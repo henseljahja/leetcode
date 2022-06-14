@@ -3,3 +3,6 @@
 .mypy_cache/
 poetry.lock
 pyproject.toml
+node_modules/
+package-lock.json
+package.json
