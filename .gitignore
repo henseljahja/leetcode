@@ -6,3 +6,4 @@ pyproject.toml
 node_modules/
 package-lock.json
 package.json
+index_script.py
